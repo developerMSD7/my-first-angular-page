@@ -1,5 +1,5 @@
 # MyFirstAngularPage
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
 ## Development server
